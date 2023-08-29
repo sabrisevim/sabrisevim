@@ -1,7 +1,9 @@
 <!-- Başlık -->
 # Welcome, my name is Sabri Sevim 👋
 
-<!-- GitHub Takip Et -->
+
+
+<!-- Profillerimi takip et -->
 [![GitHub followers](https://img.shields.io/github/followers/sabrisevim?label=Follow&style=social)](https://github.com/sabrisevim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[(https://www.linkedin.com/in/sabrisevim/))](https://www.linkedin.com/in/sabrisevim/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sabrissevim?style=social)](https://twitter.com/sabrissevim)
@@ -9,13 +11,17 @@
 
 
 <!-- Giriş -->
-Hi there! I am an Electrical-Electronics Engineer. I'm interested in software development and trying to learn.
+I am an Electrical-Electronics Engineer. 
+I am currently working on Industrial Automation. I have 2.5 years of experience.
+I am interested in software development and trying to learn. 
 
 ### ⚡ My Interest
 
-- 🎨 Tasarım
-- 🎮 Oyun
-- 📚 Kitap Okuma
+- 🎸 Guitar
+- 🏓 Ping Pong
+- 📚 Books
+- 🎥 Movies
+- ♟️ Chess
 <!-- Daha fazla hobi alanını buraya ekleyebilirsiniz -->
 
 <!-- Footer -->
@@ -27,7 +33,7 @@ Hi there! I am an Electrical-Electronics Engineer. I'm interested in software de
 
 
 <!-- Teknolojiler ve Araçlar -->
-## 🛠️ Teknolojiler ve Araçlar
+## 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,8 +52,8 @@ Hi there! I am an Electrical-Electronics Engineer. I'm interested in software de
 <!-- Projeler -->
 ## 🚀 Projects
 
-- [Proje Adı 1](link)
-- [Proje Adı 2](link)
+- [Projects 1](link)
+- [Projects 2](link)
 <!-- Daha fazla projeyi buraya ekleyebilirsiniz -->
 
 <!-- Footer -->
