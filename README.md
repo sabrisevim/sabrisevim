@@ -53,7 +53,7 @@ I am interested in software development and trying to learn.
 ## 🚀 Projects
 
 - [Araba Plakalarını Tespit Etme](https://github.com/sabrisevim/sabrisevim/issues/1)
-- [Projects 2](link)
+- [Insan Sayma](https://github.com/users/sabrisevim/projects/3)
 <!-- Daha fazla projeyi buraya ekleyebilirsiniz -->
 
 <!-- Footer -->
