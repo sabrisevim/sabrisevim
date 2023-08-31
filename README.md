@@ -52,7 +52,7 @@ I am interested in software development and trying to learn.
 <!-- Projeler -->
 ## 🚀 Projects
 
-- [Projects 1](link)
+- [Araba Plakalarını Tespit Etme]([link](https://github.com/sabrisevim/sabrisevim/issues/1))
 - [Projects 2](link)
 <!-- Daha fazla projeyi buraya ekleyebilirsiniz -->
 
